@@ -3,7 +3,7 @@ library(readxl)
 library(ggplot2)
 library(dplyr)
 
-estadístics_salaris <- read_excel("C:/Users/admin/Desktop/Inquietdus Programació/Distribució Salaris/Dades distribució Salaris.xlsx")
+estadístics_salaris <- read_excel("C:/Users/admin/Desktop/InquietuDs Programació/Distribució Salaris/Dades distribució Salaris.xlsx")
 estadístics_salaris
 
 # Filtro pels estadístics del Total Nacional des del 2008 fins al 2021 i ho tradueixo
